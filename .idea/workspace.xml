@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61b096c5-a501-4e25-8111-94f7bdbd5731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OnlineShoesShop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +13,89 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/mdb-pro/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="2084" column="11" selection-start-line="2084" selection-start-column="11" selection-end-line="2084" selection-end-column="11" />
+              <folding>
+                <element signature="e#3690#3708#0#HTML" expanded="true" />
+                <element signature="e#3985#4470#0#HTML" />
+                <element signature="e#4506#4986#0#HTML" />
+                <element signature="e#5025#5514#0#HTML" />
+                <element signature="e#5581#6766#0#HTML" />
+                <element signature="e#3555#8869#0#HTML" />
+                <element signature="e#12200#12225#0#HTML" expanded="true" />
+                <element signature="e#12905#26750#0#HTML" />
+                <element signature="e#26858#34010#0#HTML" />
+                <element signature="e#34118#38794#0#HTML" />
+                <element signature="e#38902#64939#0#HTML" />
+                <element signature="e#65008#91234#0#HTML" />
+                <element signature="e#65975#65982#1#HTML" expanded="true" />
+                <element signature="e#69112#69119#1#HTML" expanded="true" />
+                <element signature="e#72354#72361#1#HTML" expanded="true" />
+                <element signature="e#12289#13702#0#HTML" />
+                <element signature="e#13769#15017#0#HTML" />
+                <element signature="e#15085#16354#0#HTML" />
+                <element signature="e#16425#17696#0#HTML" />
+                <element signature="e#17762#18421#0#HTML" />
+                <element signature="e#18492#19167#0#HTML" />
+                <element signature="e#19455#19770#0#HTML" />
+                <element signature="e#98173#98204#0#HTML" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/admin/master.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/master.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" />
+      </list>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -127,6 +201,29 @@
               <item name="OnlineShoesShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="OnlineShoesShop" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OnlineShoesShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineShoesShop" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnlineShoesShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineShoesShop" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnlineShoesShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineShoesShop" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnlineShoesShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineShoesShop" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -139,6 +236,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Year4\Web\Project Online Shoe Shop\OnlineShoesShop\resources\views" />
+      <recent name="D:\Year4\Web\Project Online Shoe Shop\OnlineShoesShop\resources\views\layouts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,17 +272,18 @@
       <option name="presentableId" value="Default" />
       <updated>1561905257546</updated>
       <workItem from="1561905278031" duration="1662000" />
-      <workItem from="1561987501161" duration="208000" />
+      <workItem from="1561987501161" duration="7439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1662000" />
+    <option name="totallyTimeSpent" value="9101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -192,7 +296,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -202,5 +306,66 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/mdb-pro/scss/free/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/mdb-pro/mdb-addons/preloader.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/mdb-pro/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="2084" column="11" selection-start-line="2084" selection-start-column="11" selection-end-line="2084" selection-end-column="11" />
+          <folding>
+            <element signature="e#3690#3708#0#HTML" expanded="true" />
+            <element signature="e#3985#4470#0#HTML" />
+            <element signature="e#4506#4986#0#HTML" />
+            <element signature="e#5025#5514#0#HTML" />
+            <element signature="e#5581#6766#0#HTML" />
+            <element signature="e#3555#8869#0#HTML" />
+            <element signature="e#12200#12225#0#HTML" expanded="true" />
+            <element signature="e#12905#26750#0#HTML" />
+            <element signature="e#26858#34010#0#HTML" />
+            <element signature="e#34118#38794#0#HTML" />
+            <element signature="e#38902#64939#0#HTML" />
+            <element signature="e#65008#91234#0#HTML" />
+            <element signature="e#65975#65982#1#HTML" expanded="true" />
+            <element signature="e#69112#69119#1#HTML" expanded="true" />
+            <element signature="e#72354#72361#1#HTML" expanded="true" />
+            <element signature="e#12289#13702#0#HTML" />
+            <element signature="e#13769#15017#0#HTML" />
+            <element signature="e#15085#16354#0#HTML" />
+            <element signature="e#16425#17696#0#HTML" />
+            <element signature="e#17762#18421#0#HTML" />
+            <element signature="e#18492#19167#0#HTML" />
+            <element signature="e#19455#19770#0#HTML" />
+            <element signature="e#98173#98204#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
