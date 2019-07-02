@@ -15,6 +15,14 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/sample', function (){
+    return view('layouts/sample');
+});
+
 Route::get('/admin', function (){
     return view('layouts/admin');
+});
+
+Route::get('/dashboard', function (){
+    return view('layouts/dashboard');
 });
