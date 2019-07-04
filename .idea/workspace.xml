@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61b096c5-a501-4e25-8111-94f7bdbd5731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/dashboard.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/sample.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mdb-pro/css/mdb.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/mdb-pro/css/mdb.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/dashboard.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+            <state relative-caret-position="238">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -44,91 +43,49 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="21" column="6" lean-forward="true" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/dashboard.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="28" />
-              <folding>
-                <element signature="e#156#7726#0#HTML" />
-                <element signature="e#7850#8139#0#HTML" />
-              </folding>
+            <state relative-caret-position="246">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/dashboard.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-130">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="612">
+              <caret line="1239" column="13" selection-start-line="1239" selection-start-column="13" selection-end-line="1239" selection-end-column="13" />
               <folding>
-                <element signature="e#486#509#0#HTML" expanded="true" />
+                <element signature="e#224#26616#0#HTML" />
+                <element signature="e#329#366#0#HTML" expanded="true" />
+                <element signature="e#14824#14829#0#HTML" expanded="true" />
+                <element signature="e#15092#15097#0#HTML" expanded="true" />
+                <element signature="e#20694#20725#0#HTML" expanded="true" />
+                <element signature="e#20789#20819#0#HTML" expanded="true" />
+                <element signature="e#20900#20929#0#HTML" expanded="true" />
+                <element signature="e#20993#21023#0#HTML" expanded="true" />
+                <element signature="e#25853#25887#0#HTML" expanded="true" />
+                <element signature="e#26676#91398#0#HTML" />
+                <element signature="e#27866#27884#0#HTML" expanded="true" />
+                <element signature="e#29233#29251#0#HTML" expanded="true" />
+                <element signature="e#30601#30619#0#HTML" expanded="true" />
+                <element signature="e#31958#31976#0#HTML" expanded="true" />
+                <element signature="e#58706#58852#0#HTML" expanded="true" />
+                <element signature="e#58894#59015#0#HTML" expanded="true" />
+                <element signature="e#59021#59092#0#HTML" expanded="true" />
+                <element signature="e#59146#59267#0#HTML" expanded="true" />
+                <element signature="e#59273#59335#0#HTML" expanded="true" />
+                <element signature="e#59471#59523#0#HTML" expanded="true" />
+                <element signature="e#87320#87338#0#HTML" expanded="true" />
+                <element signature="e#88490#88508#0#HTML" expanded="true" />
+                <element signature="e#89658#89676#0#HTML" expanded="true" />
+                <element signature="e#90815#90833#0#HTML" expanded="true" />
+                <element signature="e#91449#91808#0#HTML" />
+                <element signature="e#91859#91877#0#HTML" expanded="true" />
+                <element signature="e#91956#92612#0#HTML" />
+                <element signature="e#92642#95372#0#HTML" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/mdb-pro/css/mdb.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="10139" lean-forward="true" selection-start-line="10139" selection-end-line="10139" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/sample.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="2092" column="11" selection-start-line="2092" selection-start-column="11" selection-end-line="2092" selection-end-column="11" />
-              <folding>
-                <element signature="e#123#1069#0#HTML" />
-                <element signature="e#1074#1730#0#HTML" />
-                <element signature="e#1735#2328#0#HTML" />
-                <element signature="e#2333#3073#0#HTML" />
-                <element signature="e#3078#3338#0#HTML" />
-                <element signature="e#3343#3536#0#HTML" />
-                <element signature="e#3541#3798#0#HTML" />
-                <element signature="e#3803#3942#0#HTML" />
-                <element signature="e#3947#5525#0#HTML" />
-                <element signature="e#5530#6816#0#HTML" />
-                <element signature="e#6821#12160#0#HTML" />
-                <element signature="e#12165#12246#0#HTML" />
-                <element signature="e#12251#12308#0#HTML" />
-                <element signature="e#12313#12371#0#HTML" />
-                <element signature="e#12376#12437#0#HTML" />
-                <element signature="e#12442#12498#0#HTML" />
-                <element signature="e#12503#12564#0#HTML" />
-                <element signature="e#12569#12847#0#HTML" />
-                <element signature="e#12852#26800#0#HTML" />
-                <element signature="e#26805#34060#0#HTML" />
-                <element signature="e#34065#38844#0#HTML" />
-                <element signature="e#38849#64989#0#HTML" />
-                <element signature="e#64994#88614#0#HTML" />
-                <element signature="e#88657#90070#0#HTML" />
-                <element signature="e#90075#91323#0#HTML" />
-                <element signature="e#91328#92597#0#HTML" />
-                <element signature="e#92602#93873#0#HTML" />
-                <element signature="e#93878#94537#0#HTML" />
-                <element signature="e#94542#95217#0#HTML" />
-                <element signature="e#95222#95537#0#HTML" />
-                <element signature="e#95542#95733#0#HTML" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.php">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -149,10 +106,10 @@
         <option value="$PROJECT_DIR$/resources/views/admin/master.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/sample.blade.php" />
         <option value="$PROJECT_DIR$/public/mdb-pro/css/mdb.css" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/master.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/dashboard.blade.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
       </list>
     </option>
   </component>
@@ -252,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,6 +221,27 @@
               <item name="OnlineShoesShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="OnlineShoesShop" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnlineShoesShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineShoesShop" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="mdb-pro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnlineShoesShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineShoesShop" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="mdb-pro" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OnlineShoesShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OnlineShoesShop" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="mdb-pro" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="mdb.css" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="OnlineShoesShop" type="b2602c69:ProjectViewProjectNode" />
@@ -291,7 +270,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,17 +315,19 @@
       <updated>1561905257546</updated>
       <workItem from="1561905278031" duration="1662000" />
       <workItem from="1561987501161" duration="8926000" />
-      <workItem from="1562074206364" duration="6332000" />
+      <workItem from="1562074206364" duration="9999000" />
+      <workItem from="1562246023990" duration="6961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16920000" />
+    <option name="totallyTimeSpent" value="27548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -374,13 +354,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/mdb-pro/mdb-addons/preloader.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/mdb-pro/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="44" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -435,41 +408,74 @@
     <entry file="file://$PROJECT_DIR$/public/mdb-pro/css/mdb.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="10139" lean-forward="true" selection-start-line="10139" selection-end-line="10139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="21" column="6" lean-forward="true" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/dashboard.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="28" />
-          <folding>
-            <element signature="e#156#7726#0#HTML" />
-            <element signature="e#7850#8139#0#HTML" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <caret line="10139" selection-start-line="10139" selection-end-line="10139" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="142">
+          <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
           <folding>
             <element signature="e#486#509#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/mdb-pro/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="1239" column="13" selection-start-line="1239" selection-start-column="13" selection-end-line="1239" selection-end-column="13" />
+          <folding>
+            <element signature="e#224#26616#0#HTML" />
+            <element signature="e#329#366#0#HTML" expanded="true" />
+            <element signature="e#14824#14829#0#HTML" expanded="true" />
+            <element signature="e#15092#15097#0#HTML" expanded="true" />
+            <element signature="e#20694#20725#0#HTML" expanded="true" />
+            <element signature="e#20789#20819#0#HTML" expanded="true" />
+            <element signature="e#20900#20929#0#HTML" expanded="true" />
+            <element signature="e#20993#21023#0#HTML" expanded="true" />
+            <element signature="e#25853#25887#0#HTML" expanded="true" />
+            <element signature="e#26676#91398#0#HTML" />
+            <element signature="e#27866#27884#0#HTML" expanded="true" />
+            <element signature="e#29233#29251#0#HTML" expanded="true" />
+            <element signature="e#30601#30619#0#HTML" expanded="true" />
+            <element signature="e#31958#31976#0#HTML" expanded="true" />
+            <element signature="e#58706#58852#0#HTML" expanded="true" />
+            <element signature="e#58894#59015#0#HTML" expanded="true" />
+            <element signature="e#59021#59092#0#HTML" expanded="true" />
+            <element signature="e#59146#59267#0#HTML" expanded="true" />
+            <element signature="e#59273#59335#0#HTML" expanded="true" />
+            <element signature="e#59471#59523#0#HTML" expanded="true" />
+            <element signature="e#87320#87338#0#HTML" expanded="true" />
+            <element signature="e#88490#88508#0#HTML" expanded="true" />
+            <element signature="e#89658#89676#0#HTML" expanded="true" />
+            <element signature="e#90815#90833#0#HTML" expanded="true" />
+            <element signature="e#91449#91808#0#HTML" />
+            <element signature="e#91859#91877#0#HTML" expanded="true" />
+            <element signature="e#91956#92612#0#HTML" />
+            <element signature="e#92642#95372#0#HTML" />
           </folding>
         </state>
       </provider>

@@ -7,8 +7,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>@yield('title')</title>
     <!-- Font Awesome -->
-{{--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">--}}
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
     <!-- Bootstrap core CSS -->
     <link href="{{@asset('mdb-pro/css/bootstrap.min.css')}}" rel="stylesheet">
     <!-- Material Design Bootstrap -->
@@ -19,7 +18,7 @@
     @yield('stylesheet')
 </head>
 
-<body>
+<body class="fixed-sn white-skin" data-gr-c-s-loaded="true">
 
 <!-- Start your project here-->
 @yield('main-content')
