@@ -11,9 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 Route::get('/sample', function (){
     return view('layouts/sample');
@@ -26,4 +26,7 @@ Route::get('/admin', function (){
 Route::get('/dashboard', function (){
     return view('layouts/dashboard');
 });
-Route::get('/home','HomeController@index')->name('home');
+Route::group(['prefix'=>'home'], function(){
+    Route::get('/product','productController@index')->name('product');
+});
+Route::get('/','HomeController@index')->name('home');
