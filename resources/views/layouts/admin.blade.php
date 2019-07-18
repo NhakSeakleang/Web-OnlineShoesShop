@@ -38,17 +38,18 @@
         <div class="card-body px-lg-5 pt-0">
 
             <!-- Form -->
-            <form class="text-center" style="color: #757575;">
+            <form action="{{\Illuminate\Support\Facades\URL::to('/dashboard')}}" class="text-center" method="get"
+                  style="color: #757575;">
 
                 <!-- Email -->
                 <div class="md-form">
-                    <input type="email" id="materialLoginFormEmail" class="form-control">
+                    <input type="email" name="email" id="materialLoginFormEmail" class="form-control">
                     <label for="materialLoginFormEmail">E-mail</label>
                 </div>
 
                 <!-- Password -->
                 <div class="md-form">
-                    <input type="password" id="materialLoginFormPassword" class="form-control">
+                    <input type="password" name="password" id="materialLoginFormPassword" class="form-control">
                     <label for="materialLoginFormPassword">Password</label>
                 </div>
 
@@ -56,7 +57,7 @@
                     <div>
                         <!-- Remember me -->
                         <div class="form-check">
-                            <input type="checkbox" class="form-check-input" id="materialLoginFormRemember">
+                            <input type="checkbox" name="remember" class="form-check-input" id="materialLoginFormRemember">
                             <label class="form-check-label" for="materialLoginFormRemember">Remember me</label>
                         </div>
                     </div>
