@@ -16,7 +16,9 @@ class User extends Authenticatable
      * @var array
      */
     protected $fillable = [
-        'name', 'email', 'password',
+        'first_name', 'last_name', 'user_name','email','password','tokent',
+        'position','phone_name','city','country','address','ip','last_active',
+        'detail','shoe_detail_id','ship_by','status','qty','user_id',
     ];
 
     /**
@@ -36,4 +38,21 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+    protected $table='users';
+
+    public function order()
+    {
+        return $this->hasMany(OrderModel::class,'user_id');
+    }
+    public function carte()
+    {
+        return $this->hasMany(CarteModel::class,'user_id');
+    }
+    public function review()
+    {
+        return $this->hasMany(ReviewModel::class,'user_id');
+    }
+
+
+
 }
